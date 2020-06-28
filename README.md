@@ -1,0 +1,2 @@
+# studyNote
+c++ basic note
